@@ -1,0 +1,10 @@
+2019-08-07 14:13:43,508 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 9 Detail: Required Integer parameter 'role' is not present
+2019-08-07 14:14:51,326 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:17:08,185 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:18:00,762 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:18:09,001 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:18:15,928 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:18:22,555 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:18:22,557 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-08-07 14:19:43,432 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 9 Detail: Required Integer parameter 'role' is not present
+2019-08-07 14:20:31,986 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 9 Detail: Required Integer parameter 'role' is not present

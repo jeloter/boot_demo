@@ -1,0 +1,8 @@
+2019-08-07 15:19:03,712 INFO (StartupInfoLogger.java:59)- Started BootDemoApplication in 6.305 seconds (JVM running for 7.861)
+2019-08-07 15:24:40,161 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 18636 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 15:24:40,186 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 15:24:40,186 INFO (SpringApplication.java:650)- The following profiles are active: dev
+2019-08-07 15:24:46,346 INFO (StartupInfoLogger.java:59)- Started BootDemoApplication in 7.953 seconds (JVM running for 9.453)
+2019-08-07 16:58:05,735 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 19064 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 16:58:05,742 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 16:58:05,742 INFO (SpringApplication.java:650)- The following profiles are active: dev

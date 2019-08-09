@@ -1,0 +1,8 @@
+2019-08-07 14:38:52,064 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 7228 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 14:38:52,078 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 14:38:52,079 INFO (SpringApplication.java:650)- The following profiles are active: dev
+2019-08-07 14:38:59,037 INFO (StartupInfoLogger.java:59)- Started BootDemoApplication in 9.008 seconds (JVM running for 10.77)
+2019-08-07 14:41:06,173 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 9 Detail: Required String parameter 'name' is not present
+2019-08-07 14:50:39,807 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 2928 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 14:50:39,816 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 14:50:39,816 INFO (SpringApplication.java:650)- The following profiles are active: dev

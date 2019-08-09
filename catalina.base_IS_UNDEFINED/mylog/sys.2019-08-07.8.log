@@ -1,0 +1,11 @@
+2019-08-07 16:58:12,850 INFO (StartupInfoLogger.java:59)- Started BootDemoApplication in 8.773 seconds (JVM running for 10.655)
+2019-08-07 17:00:45,250 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 17:00:45,253 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-08-07 17:01:02,551 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 17:04:51,593 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 19272 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 17:04:51,598 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 17:04:51,599 INFO (SpringApplication.java:650)- The following profiles are active: dev
+2019-08-07 17:04:59,547 INFO (StartupInfoLogger.java:59)- Started BootDemoApplication in 11.249 seconds (JVM running for 13.433)
+2019-08-07 17:06:42,187 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 14496 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 17:06:42,198 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 17:06:42,198 INFO (SpringApplication.java:650)- The following profiles are active: dev

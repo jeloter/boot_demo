@@ -1,0 +1,8 @@
+2019-08-07 14:29:41,428 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 9 Detail: Required Integer parameter 'role' is not present
+2019-08-07 14:30:21,918 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 9 Detail: Required Integer parameter 'role' is not present
+2019-08-07 14:32:31,330 INFO (LogTestController.java:25)- 访问了controller
+2019-08-07 14:32:39,530 ERROR (GlobalExceptionHandler.java:135)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-08-07 14:37:11,095 INFO (StartupInfoLogger.java:50)- Starting BootDemoApplication on DESKTOP-3ITCLAB with PID 1824 (E:\ideaWorkSpace\boot_demo\target\classes started by lenovo in E:\ideaWorkSpace\boot_demo)
+2019-08-07 14:37:11,105 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-08-07 14:37:11,105 INFO (SpringApplication.java:650)- The following profiles are active: dev
+2019-08-07 14:37:18,773 INFO (StartupInfoLogger.java:59)- Started BootDemoApplication in 9.59 seconds (JVM running for 11.199)
